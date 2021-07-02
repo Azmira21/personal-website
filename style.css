@@ -1,0 +1,145 @@
+body{
+    margin: 100px;
+    font-family: 'Archivo Narrow', sans-serif;
+    background-image: url("images/header-bg.png");
+    }
+.about-work{
+    padding-left: 20px;
+    padding-bottom: 30px;
+    float: right;
+    margin-right: 30px;
+    }
+
+h1{
+    font-size: 50px;
+   }
+
+#hello{
+    color: rgb(5, 5, 85); 
+    }
+#azmira{
+    color:deeppink ;
+    }
+#about{
+    color: rgb(5, 5, 85);
+}
+.link-button{
+    background-image: linear-gradient(pink,deeppink);
+    border-radius:5px;
+    text-decoration: none;  
+    color: white; 
+    padding: 10px;
+    }
+.link-buttoncv{
+    background-image: linear-gradient(pink,deeppink);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    }
+      
+.first{
+    width:40%;
+    padding-left: 5%;
+    margin-left:2%;
+    float: left;
+    font-size: 20px;
+   
+    }
+.first img{
+    width: 100%;
+    }
+   .lastet{
+      padding-top: 1000px;
+      padding-bottom: 50px;
+      text-align: center;
+      color: rgb(5, 5, 85) ;
+      font-size: 5px;
+      font-weight: 2px;
+     
+    
+   }
+      
+       
+
+.hard{
+    width:30%;
+    padding-left: 1%;
+   margin-left: 2%;
+    float: left; 
+    box-shadow: 10px 10px 40px rgb(211, 208, 208);
+    border-radius: 20px;
+}
+.hard img{
+  
+   width:90%;
+   }
+   #lat{
+       color: deeppink;
+      
+   }
+ #work{
+     width: 400px;
+    
+     }
+  .work-inquiry{
+      float: left;
+      width: 50%;
+     
+  }
+  #chat{
+    background-image: linear-gradient(rgb(160, 160, 235),blue);
+    border-radius:10px;
+    text-decoration: none;  
+    color: white; 
+    padding:20px 40px;
+    font-size: 20px;
+    text-align: right;
+    display:inline-block;
+    margin-top:40px;
+    
+  }
+  .work-chat{
+    text-align:right; 
+    padding:480px 50px ;
+    margin:150px;
+    margin-top:0px;
+    margin-bottom: 0px;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size:contain ;
+    background-position-y:450px;
+    background-position-x: 2px;
+    color: white;
+    display: center;
+    
+      }
+  .stay{
+      font-size:20px ;
+      text-align: center;
+      padding-top: 0px;
+      padding-bottom: 50px;
+     margin-top: 0px;
+          
+  }
+ 
+  .hello-design{
+      font-size: 30px;
+      color: rgb(5, 5, 85);
+    text-decoration: (none);
+  
+  }
+  .icon-group{
+      margin-left:41%;
+     margin-top: 0px;
+     display: center;
+
+     
+  }
+  .icon{
+    float: left;
+    padding-left: 20px;
+  }
+   .icon img{
+       width: 40px;
+   }
